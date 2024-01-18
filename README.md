@@ -1,7 +1,7 @@
 ### Requirement
 Linux Ubuntu 16.04.3 LTS or higher
 
-###Installation
+### Installation
 1. Open up the terminal window in Linux (e.g., press Ctrl+Alt+T). You can refer to this instruction about how to open the terminal: https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux/
 
 2. Update the "apt-get" app with following command
@@ -23,7 +23,7 @@ Linux Ubuntu 16.04.3 LTS or higher
 7. Go to the project directory that contain the "script.py"
 `$ cd /home/fuchen/Roblox_HW_2022`  (example)
 
-###Usage
+### Usage
 `$ python3.9 script.py [path]`
 Run the face detection script on [path] and show the result. [path] could be an image file path or directory path.
 
@@ -33,11 +33,11 @@ Same above, but also calculate and show the metrics.
 `$ python3.9 script.py -h`
 Show the description and usage of this script.
 
-###Example
-####Run the script on the provided validation images
+### Example
+#### Run the script on the provided validation images
 `$ python3.9 script.py val/`
 
-####Got the following results
+#### Got the following results
 1_faces_2.png   1
 3_faces_3.jpg   3
 0_faces_4.jpg   0
