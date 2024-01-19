@@ -1,5 +1,5 @@
 ### Introduction
-The RetinaFace (https://github.com/serengil/retinaface) API I built for the Roblox interview take-home assignment in 2022.
+The [RetinaFace](https://github.com/biubug6/Pytorch_Retinaface) API I built for the Roblox interview take-home assignment in 2022.
 The API is wrriten in `script.py`, and the reasoning is written in `notes.md`
 
 ### Requirement
