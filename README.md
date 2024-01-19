@@ -1,3 +1,7 @@
+### Introduction
+The RetinaFace (https://github.com/serengil/retinaface) API I built for the Roblox interview take-home assignment in 2022.
+The API is wrriten in `script.py`, and the reasoning is written in `notes.md`
+
 ### Requirement
 Linux Ubuntu 16.04.3 LTS or higher
 
@@ -38,6 +42,7 @@ Show the description and usage of this script.
 `$ python3.9 script.py val/`
 
 #### Got the following results
+```
 1_faces_2.png   1
 3_faces_3.jpg   3
 0_faces_4.jpg   0
@@ -77,3 +82,4 @@ recall: 0.976
 f1_score: 0.972
 False positives (wrong detections) per image: 0.1
 False negatives (miss detections) per image: 0.1
+```
