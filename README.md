@@ -2,7 +2,7 @@
 The [RetinaFace](https://github.com/biubug6/Pytorch_Retinaface) API I built for the Roblox interview take-home assignment in 2022.
 The API is wrriten in `script.py`, and the reasoning is written in `notes.md`
 
-**The main purpose of this repo is to demonstrate my code and reasoning. The API itself could be out-dated.**
+**The main purpose of this repo is to demonstrate my code and reasoning. The API itself could be outdated.**
 
 ### Requirement
 Linux Ubuntu 16.04.3 LTS or higher
