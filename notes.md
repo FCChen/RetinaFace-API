@@ -8,7 +8,7 @@ As a result, I choose RetinaFace for this project. Since the Github link for Ret
 ### Implementation details
 Here are some implementation details I made:
 1. Modularize everything into functions and imports
-2. Utilized "argparse" for argument parsing
+2. Utilized `argparse` for argument parsing
 3. Removed every unecessary imports and files from the original Github clone what are not relevant to this project
 4. Create a dataclass to define model settings
     `class ModelSettings:`
